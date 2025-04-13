@@ -53,8 +53,8 @@ This is a small web app where users can build their own pancake by choosing Panc
 
 ## working link to github repository:
 
-- [x]
+- https://github.com/HabibaUrmi/pancake-maker.git
 
 ## Live page link:
 
-- [x]
+- https://pancake-maker-three.vercel.app/
