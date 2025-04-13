@@ -4,6 +4,9 @@
 
 This is a small web app where users can build their own pancake by choosing Pancake type, toppings, extras, and delivery method. This project is completed using basic JavaScript.
 
+![Home page](assets/Homepage.png)
+![Order page](assets/Orderpage.png)
+
 ---
 
 ## 👣 Project Steps
